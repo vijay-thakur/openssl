@@ -1,0 +1,7 @@
+DEPENDENCIES
+  openssl
+    path: .
+    metadata: true
+
+GRAPH
+  openssl (0.1.0)
